@@ -1,0 +1,1 @@
+Living in a crowded city, finding parking becomes increasingly difficult. This project combines the payment system with an appointment system, allowing people to reserve a space easily and making parking more orderly.
